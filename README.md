@@ -1,4 +1,4 @@
-#Gerador de senhas
+# Gerador de senhas
 
 1. O intuito é ser simples e eficaz, então para usar basta acessar o link: https://felipenotari.github.io/Gerador_De_Senhas/.
 2. Escolher a quantidade de caracteres.
